@@ -1,2 +1,2 @@
 # Alx-Pre-course-
-This is my first Repository I am now a fullstack Engineer
+I am now a ALX student, this is my first Repository as a fullstack Engineer
