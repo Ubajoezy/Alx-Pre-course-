@@ -1,2 +1,2 @@
 # Alx-Pre-course-
-A new student in Alx  willing to learn Software engineering 
+This is my first Repository I am now a fullstack Engineer
